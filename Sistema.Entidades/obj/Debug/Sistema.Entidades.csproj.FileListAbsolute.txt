@@ -1,0 +1,5 @@
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

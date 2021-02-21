@@ -1,0 +1,10 @@
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csprojAssemblyReference.cache
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb

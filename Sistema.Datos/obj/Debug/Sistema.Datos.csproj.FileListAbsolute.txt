@@ -1,0 +1,8 @@
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\Eddy-PC\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
